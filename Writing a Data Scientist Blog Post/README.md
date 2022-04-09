@@ -1,5 +1,4 @@
-# Data Scientist Nanodegree (Udacity)
+# Writing a Data Scientist Blog Post (to be modified)
 
-Welcome to my DS Nanodegree repository,
 
-Here you will find all the projects I'm working on related with the Data Science field. I hope you find it interesting!
+This data is licensed under a Creative Commons Attribution 4.0 International License.
