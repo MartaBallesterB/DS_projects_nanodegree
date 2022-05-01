@@ -1,4 +1,4 @@
-# Writing a Data Scientist Blog Post (to be modified)
+# Writing a Data Scientist Blog Post
 
 
 ## Table of contents
@@ -19,7 +19,14 @@
 
 ### What's included
 
+- A folder with all the data needed to execute the notebook.
+- The license file.
+- The Jupyter Notebook.
+- README.
+
 ### Documentation
+
+
 
 ### Copyright and license
 
