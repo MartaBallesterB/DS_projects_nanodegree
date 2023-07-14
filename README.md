@@ -11,11 +11,11 @@ Here you will find all the projects I'm working on related to the field of Data 
 
 1. [Writing a Data Scientist Blog Post](https://github.com/MartaBallesterB/Data-Scientist-Nanodegree/tree/main/Writing%20a%20Data%20Scientist%20Blog%20Post) (ONGOING)
 
-2. Disaster Response Pipeline and WebApp (Upcoming: May)
+2. Disaster Response Pipeline and WebApp (Upcoming)
 
-3. Recommendation Engines with IBM (Upcoming: June)
+3. Recommendation Engines with IBM (Upcoming)
 
-4. Data Scientist Capstone, Final Project (Upcoming: July)
+4. Data Scientist Capstone, Final Project (Upcoming)
 
 <br>
 

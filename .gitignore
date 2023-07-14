@@ -1,0 +1,6 @@
+# Ignore folders
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+__MACOSX
+.DS_Store
+writing_a_data_scientist_blog_post/data
